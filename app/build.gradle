@@ -31,7 +31,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'jp.ac.uryukyu.ie.e205727.App'
+    mainClassName = 'Main'
 }
 
 tasks.named('test') {
